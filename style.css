@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+canvas {
+  background: linear-gradient(
+    120.6deg,
+    #ffe7e7 3.53%,
+    #d1dceb 58.36%,
+    #e9f2fd 100%
+  );
+  display: block;
+  margin: 7% auto;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 1%;
+  font-family: Monospace;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  letter-spacing: 0.02em;
+  color: #0c1e5b;
+}
